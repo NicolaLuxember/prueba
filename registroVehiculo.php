@@ -30,7 +30,7 @@ if (isset($_SESSION['user'])){
             <div class="col-md-4">
 
                 <form action="controladores/controlador.vehiculo.php" method="POST">
-                    <h3>Registro Vehiculo</h3><br>
+                    <h3>Registro Vehiculos nicolas</h3><br>
                     <label>Placa</label>
                     <input type="text" name="placa" required class="form-control"><br>
                     <label>Modelo</label>
