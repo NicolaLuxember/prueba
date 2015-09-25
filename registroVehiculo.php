@@ -16,7 +16,7 @@ if (isset($_SESSION['user'])){
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Registro</title>
+        <title>Registro nicolas</title>
 
     </head>
     <body>
